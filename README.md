@@ -70,9 +70,8 @@ Backend-разработчик, специализируюсь на **Python** �
 
 ## 📊 GitHub Stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=JustStepan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustStepan&layout=compact&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/github/followers/JustStepan?style=social)
+![](https://img.shields.io/github/stars/JustStepan?style=social)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
