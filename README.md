@@ -79,5 +79,7 @@ Backend-разработчик, специализируюсь на **Python** �
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=JustStepan&color=blue)
+---
 
 💡 **Открыт к интересным предложениям и сотрудничеству!**
