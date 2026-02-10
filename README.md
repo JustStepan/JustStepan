@@ -73,11 +73,11 @@ Backend-разработчик, специализируюсь на **Python** �
 ![My stats](https://github-readme-stats-eight-theta.vercel.app)
 ![My Langs](https://github-readme-stats-eight-theta.vercel.app)
 
-![Python](https://img.shields.io)
-![FastAPI](https://img.shields.io)
-![PostgreSQL](https://img.shields.io)
-![Docker](https://img.shields.io)
-![React](https://img.shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ---
 
 💡 **Открыт к интересным предложениям и сотрудничеству!**
