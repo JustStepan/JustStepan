@@ -70,10 +70,14 @@ Backend-разработчик, специализируюсь на **Python** �
 
 ## 📊 GitHub Stats
 
-![Stepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustStepan&show_icons=true&theme=radical)
+![My stats](https://github-readme-stats-eight-theta.vercel.app)
+![My Langs](https://github-readme-stats-eight-theta.vercel.app)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustStepan&layout=compact&theme=radical)
-
+![Python](https://img.shields.io)
+![FastAPI](https://img.shields.io)
+![PostgreSQL](https://img.shields.io)
+![Docker](https://img.shields.io)
+![React](https://img.shields.io)
 ---
 
 💡 **Открыт к интересным предложениям и сотрудничеству!**
